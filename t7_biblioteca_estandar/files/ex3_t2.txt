@@ -1,0 +1,2 @@
+Este archivo no tiene palabras que terminen en exclamación.
+Es un archivo simple para probar el caso en el que no hay coincidencias.

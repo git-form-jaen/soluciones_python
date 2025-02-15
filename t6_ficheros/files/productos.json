@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Monitor",
+        "cantidad": 20,
+        "precio": 249.99
+    },
+    {
+        "nombre": "Teclado",
+        "cantidad": 50,
+        "precio": 39.99
+    },
+    {
+        "nombre": "Disco Duro Externo",
+        "cantidad": 15,
+        "precio": 129.99
+    }
+]
